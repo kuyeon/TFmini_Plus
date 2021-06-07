@@ -1,0 +1,2 @@
+TFmini-ROS/tfmini_ros
+-DCATKIN_DEVEL_PREFIX=/home/mirae/Codes/TFmini_Plus/tfmini_ros/devel -DCMAKE_INSTALL_PREFIX=/home/mirae/Codes/TFmini_Plus/tfmini_ros/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/mirae/Codes/TFmini_Plus/tfmini_ros/install
+
+Name: tfmini_ros
+Description: Description of tfmini_ros
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
