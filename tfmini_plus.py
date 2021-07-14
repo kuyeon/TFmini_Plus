@@ -1,4 +1,3 @@
-from __future__ import division, print_function
 from tfmini import TFmini  # Used TFmini Plus LiDAR
 import time
 
